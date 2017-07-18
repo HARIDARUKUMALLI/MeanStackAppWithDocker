@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;MeanStackAppWithDocker&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang examples" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../go-lang-docker" />
+      <root url="file://$PROJECT_DIR$/../test" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../mysql-using-goLang-on-Docker-container" />
+      <root url="file://$PROJECT_DIR$/../linkContainers" />
+      <root url="file://$PROJECT_DIR$/../Test2" />
+      <root url="file://$PROJECT_DIR$/../DummyDocker" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang examples" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../go-lang-docker" />
+      <root url="file://$PROJECT_DIR$/../test" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../mysql-using-goLang-on-Docker-container" />
+      <root url="file://$PROJECT_DIR$/../linkContainers" />
+      <root url="file://$PROJECT_DIR$/../Test2" />
+      <root url="file://$PROJECT_DIR$/../DummyDocker" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
